@@ -44,6 +44,7 @@ Plain text files. No build step, nothing to compile.
 | [**kitty**](https://github.com/sp-night/kitty) | ANSI, cursor, splits, the tab bar and the three mark slots |
 | [**alacritty**](https://github.com/sp-night/alacritty) | ANSI, both cursors, search hits, hints, the footer bar |
 | [**eza**](https://github.com/sp-night/eza) | a native `theme.yml` — file kinds, permissions, sizes, git status |
+| [**helix**](https://github.com/sp-night/helix) | the whole scope tree, the three modes, diagnostics, diffs and the picker |
 
 ## How it holds together
 
