@@ -45,6 +45,7 @@ Plain text files. No build step, nothing to compile.
 | [**alacritty**](https://github.com/sp-night/alacritty) | ANSI, both cursors, search hits, hints, the footer bar |
 | [**eza**](https://github.com/sp-night/eza) | a native `theme.yml` — file kinds, permissions, sizes, git status |
 | [**helix**](https://github.com/sp-night/helix) | the whole scope tree, the three modes, diagnostics, diffs and the picker |
+| [**herdr**](https://github.com/sp-night/herdr) | the agent sidebar, panes and toasts — including the four colours for what each agent is doing |
 
 ## How it holds together
 
